@@ -197,19 +197,19 @@ header {
 }
 
 .progress-line .html {
-  width: 80%;
+  width: 100%;
 }
 .progress-line .css {
-  width: 70%;
+  width: 90%;
 }
 .progress-line .bootstrap {
-  width: 50%;
+  width: 70%;
 }
 .progress-line .javascript {
-  width: 50%;
+  width: 90%;
 }
 .progress-line .c {
-  width: 50%;
+  width: 100%;
 }
 
 .bar .progress-line span::before {
@@ -239,19 +239,19 @@ header {
 }
 
 .progress-line .html::after {
-  content: "80%";
+  content: "100%";
 }
 .progress-line .css::after {
-  content: "70%";
+  content: "90%";
 }
 .progress-line .bootstrap::after {
-  content: "50%";
+  content: "70%";
 }
 .progress-line .javascript::after {
-  content: "50%";
+  content: "90%";
 }
 .progress-line .c::after {
-  content: "50%";
+  content: "100%";
 }
 
 .navbar.solid {
